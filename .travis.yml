@@ -19,4 +19,4 @@ deploy:
   provider: script
   script: docker push spaxxkey/node
   on:
-    branch: travis
+    branch: master
